@@ -1,6 +1,7 @@
 Hi Everyone! 
 
-This is my portfolio using the Stellar theme from HTML5 UP. The Porfolio showcases a short description about myself, my projects and some certifications I have. Please feel free to contact me for any work opportunities!
+This is my portfolio using the Stellar theme from HTML5 UP. The Portfolio showcases a short description about myself, my projects and some certifications I have. Please feel free to contact me for any work opportunities!
+I'm actively looking for full-time jobs in Data Analytics/ Business Analytics/ Supply Chain Analyst fields, if you think I'm a great match for any opportunities, please ping me ASAP at soudunno@gmail.com.
 
 Cheers!
 
@@ -35,3 +36,4 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
